@@ -1,16 +1,23 @@
-## Hi there 👋
+# README - Nouman Syed
 
-<!--
-**NoumanSayed/NoumanSayed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+Hello! I'm **Nouman Syed**, a student at **Ajeenkya DY Patil University**, currently pursuing a **B.Tech program specializing in Artificial Intelligence and Data Science (AIDS)**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contact Information
+
+Feel free to connect with me:
+
+- **Email:** [noumansayed29@gmail.com](mailto:noumansayed29@gmail.com)
+
+## Skills
+
+I have a basic understanding of programming languages such as **C++, Java, and Python**.
+
+## Let's Connect!
+
+I am open to networking and discussing innovative ideas. Reach out to me for collaborations or insightful discussions!
+
+---
+
+*This README serves as a brief introduction about me and my academic journey.*
