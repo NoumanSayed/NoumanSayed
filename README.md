@@ -12,7 +12,8 @@ Feel free to connect with me:
 
 ## Skills
 
-I have a basic understanding of programming languages such as **C++, Java, and Python**.
+I have understanding of programming languages such as **C++, Java, Python and HTML**.
+and Frameworks like **Django**.
 
 ## Let's Connect!
 
